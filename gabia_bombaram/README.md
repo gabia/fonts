@@ -13,3 +13,4 @@
 
 ### 다운로드
 - 가비아 봄바람체 다운로드 ([Windows](https://static.gabia.com/fonts/files/gabia_bombaram_windows.ttf)/[Mac](https://static.gabia.com/fonts/files/gabia_bombaram_mac.otf))
+- Windows, Mac OS에서 사용 가능
