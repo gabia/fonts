@@ -1,7 +1,8 @@
 ## 가비아 봄바람체 Typeface_Gabia Bombaram  
-활기차고 역동적인 붓글씨체에서 영감을 얻은 글꼴입니다. 부드럽게 연결되는 획과 속도감을 느낄 수 있는 궤적은 살랑살랑 나부끼는 봄바람을 연상시킵니다. 감성적인 내용을 전달할 때나 메인 타이틀을 보조하는 서브타이틀에 적합합니다.
+가비아 봄바람체는 봄바람에 날리는 듯한 경쾌한 붓놀림을 구현한 글꼴입니다.
+획의 끝이 날렵하게 삐치는 모양이 특징입니다.
 
-![font02](https://user-images.githubusercontent.com/779745/70031003-af421f00-15ed-11ea-97b9-eaf7de6c34a5.png)
+![font02](https://static.gabia.com/fonts/project/image/font_characters/bombaram.svg)
 
 
 ### 경쾌한
@@ -12,5 +13,5 @@
 
 
 ### 다운로드
-- 가비아 봄바람체 다운로드 ([Windows](https://static.gabia.com/fonts/files/gabia_bombaram_windows.ttf)/[Mac](https://static.gabia.com/fonts/files/gabia_bombaram_mac.otf))
+- 가비아 봄바람체 다운로드 (https://static.gabia.com/fonts/project/fonts/Download-font/GabiaBombaram.zip)
 - Windows, Mac OS에서 사용 가능
